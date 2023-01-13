@@ -1,6 +1,6 @@
 baseURL = 'https://joselyn-rodriguez.github.io/winterstorm2023-site/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Winter Storm 2023 academic website tutorial'
 theme = 'astatine'
 publishDir = 'docs'
 
@@ -27,7 +27,7 @@ pygmentsStyle = "native"
 # This links to content within the content/post/ folder
 [[menu.main]]
     name = "Posts"
-    url = "/post/"
+    url = "/posts/"
     weight = -150
 
 # This links to the page about.md
