@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://joselyn-rodriguez.github.io/winterstorm2023-site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'astatine'
