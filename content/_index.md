@@ -1,12 +1,12 @@
 ---
 # === Required fields  ===
 # Your name 
-name: "Astatine"
+name: "Joselyn Rodriguez"
 # Your profile picture
 imgname: 
-  name: "img/main.jpg"
+  name: "img/logo.png"
   alt: "Picture of me"
-  type: image/jpeg
+  type: image/png
 
 # More sources can be added (optional) using 
 # imgOther:
@@ -16,7 +16,7 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Chemical element"
+personal_title: ""
 
 # An address (you can list multiple)
 address: 
@@ -79,10 +79,4 @@ doi = {10.1038/ncomms2819}\n
 
 # Bio
 
-I am a chemical element with the symbol At and atomic number 85. I am 
-the rarest naturally occurring element in the Earth's crust, occurring only as
-the decay product of various heavier elements. All of my isotopes are
-short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. 
-
-A pure sample of myself has never been assembled, because any macroscopic
-specimen would be immediately vaporized by the heat of its own radioactivity.
+This is where I would write things about myself!

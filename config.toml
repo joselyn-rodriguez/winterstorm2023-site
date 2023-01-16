@@ -1,6 +1,6 @@
 baseURL = 'https://joselyn-rodriguez.github.io/winterstorm2023-site/'
 languageCode = 'en-us'
-title = 'Winter Storm 2023 academic website tutorial'
+title = 'Winter Storm 2023'
 theme = 'astatine'
 publishDir = 'docs'
 
@@ -57,7 +57,7 @@ pygmentsStyle = "native"
     authorName = "Jack Harkness"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
-        name = "img/main.jpg"
+        name = "img/logo.png"
         # Add an alt description for the image
         alt = "Profile picture"
 
