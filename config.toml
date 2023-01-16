@@ -32,8 +32,8 @@ pygmentsStyle = "native"
 
 # This links to the page about.md
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "CV"
+    url = "/cv.pdf"
     weight = -110
 
 # Make the tags and categories pages accessible directly from the navbar.
@@ -51,10 +51,8 @@ pygmentsStyle = "native"
 [params]
     # Site description. Individual pages can have descriptions too but if
     # missing it will fallback to that one.
-    description = """The homepage of Astatine. This website is a demo the of the \
-    Hugo theme Astatine."""
     # Author of the site
-    authorName = "Jack Harkness"
+    authorName = "JMR"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
         name = "img/logo.png"

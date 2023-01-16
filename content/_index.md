@@ -7,7 +7,6 @@ imgname:
   name: "img/logo.png"
   alt: "Picture of me"
   type: image/png
-
 # More sources can be added (optional) using 
 # imgOther:
 #   - name: $IMAGE_PATH
@@ -52,7 +51,7 @@ publications:
     # Will write "In ${journal}, ${date}"
     date: 2013
     journal: Nature Communications
-    image: img/paper_illustration.png
+    # image: img/paper_illustration.png
     # A bibtex (or any other format) citation that people can copy directly from the website.
     citation: "@article{article,\n
 author = {Rothe, Sebastian and Andreyev, A and Antalic, Stanislav and Borschevsky, Anastasia and Capponi, Luigi and Cocolios, Thomas and De Witte, Hilde and Eliav, Ephraim and Fedorov, D.V. and Fedosseev, Valentin and Fink, D and Fritzsche, s and Ghys, Lars and Huyse, M and Imai, Nobuaki and Kaldor, U and Kudryavtsev, Yu and Koester, Ulli and Lane, J and Wendt, Klaus},\n
